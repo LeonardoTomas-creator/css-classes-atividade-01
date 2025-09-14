@@ -13,4 +13,4 @@ Repositório criado para a realização da **Atividade CSS - 01**, com foco na p
 Praticar a utilização de classes e propriedades básicas do CSS para modificar cores, fontes, alinhamentos e fundos, entendendo melhor como estruturar a estilização de uma página web.
 
 ## 🔗 Repositório
-[GitHub - css-classes-atividade-01](https://github.com/LeonardoTomas-creator/css-classes-atividade-01)
+[GitHub - css-classes-atividade-01](https://github.com/SPTech-Atividades-de-PI/css-classes-atividade-01)
